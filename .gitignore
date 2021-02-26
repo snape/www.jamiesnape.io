@@ -1,0 +1,6 @@
+# -*- mode: gitignore; -*-
+# vi: set ft=gitignore:
+
+_site/
+.jekyll-metadata
+.sass-cache/

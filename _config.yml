@@ -1,0 +1,74 @@
+---
+title: Jamie Snape
+author: Jamie Snape
+email: lastname@me.com
+description: >
+  Experienced Staff R&D Engineer and Project Lead with demonstrated history of
+  working in computer software, robotics, scientific, and engineering industries
+  and academia. Skilled in C++, Python, and other languages, various open-source
+  libraries and cloud platforms. Certified in Java programming. Strong
+  engineering professional with Ph.D. in computer science focused on distributed
+  autonomous robotic vehicles and video game artificial intelligence from the
+  University of North Carolina at Chapel Hill. US and UK Citizen.
+
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-github-metadata
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - node_modules
+  - README.md
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+facebook_username: jamiesnape
+github_username:  jamiesnape
+instagram_username: jamiesnape
+linkedin_username: jamiesnape
+twitter_username: jamiesnape
+youtube_username: jamiesnape
+
+google_analytics: G-2YBY8NNGN4
+
+header_pages:
+  - courses.md
+  - links.md
+  - publications.md
+  - software.md
+  - teaching.md
+  - videos.md
+
+tagline: Experienced Staff R&D Engineer and Project Lead
+
+webmaster_verifications:
+  bing: 448B9EE76DDA7386A944C7F059A70510
+
+logo: /assets/photo.png
+
+social:
+  name: Jamie Snape
+  links:
+    - https://github.com/jamiesnape
+    - https://twitter.com/jamiesnape
+    - https://vimeo.com/snape
+    - https://www.facebook.com/jamiesnape
+    - https://www.instagram.com/jamiesnape/
+    - https://www.linkedin.com/in/jamiesnape
+    - https://www.twitch.tv/tarhippo
+    - https://www.youtube.com/jamiesnape
+
+twitter:
+  username: jamiesnape
+  card: summary
+
+url: https://www.jamiesnape.io
