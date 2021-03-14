@@ -1,0 +1,23 @@
+/*
+  Content-Security-Policy: default-src 'self'; frame-src https://player.vimeo.com/video/; script-src 'self' 'unsafe-inline' https://www.clarity.ms/tag/ https://www.google-analytics.com/ https://www.googletagmanager.com/gtag/; upgrade-insecure-requests
+  Referrer-Policy: no-referrer
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+
+/assets/resume.pdf
+  Link: <https://www.jamiesnape.io/assets/resume.pdf>; rel='canonical'
+
+/assets/publications/mmath/dissertation.pdf
+  Link: <https://www.jamiesnape.io/assets/publications/mmath/dissertation.pdf>; rel='canonical'
+
+/assets/publications/msc/thesis.pdf
+  Link: <https://www.jamiesnape.io/assets/publications/msc/thesis.pdf>; rel='canonical'
+
+/assets/publications/phd/dissertation.pdf
+  Link: <https://www.jamiesnape.io/assets/publications/phd/dissertation.pdf>; rel='canonical'
+
+/cdn-cgi/l/email-protection
+  X-Robots-Tag: noindex
+
+https://snape-github-io.pages.dev/*
+  X-Robots-Tag: noindex
