@@ -1,0 +1,15 @@
+{
+  "background_color": "#ffffff",
+  "description": "Experienced Staff R&D Engineer and Project Lead with demonstrated history of working in computer software, robotics, scientific, and engineering industries and academia. Skilled in C++, Python, and other languages, various open-source libraries and cloud platforms. Certified in Java programming. Strong engineering professional with Ph.D. in computer science focused on distributed autonomous robotic vehicles and video game artificial intelligence from the University of North Carolina at Chapel Hill. US and UK Citizen.",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "android-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "lang": "en_US",
+  "name": "Jamie Snape",
+  "short_name": "Jamie Snape"
+}
