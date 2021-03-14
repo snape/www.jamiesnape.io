@@ -1,0 +1,13 @@
+# -*- mode: gitignore; -*-
+# vi: set ft=gitignore:
+
+_site/
+.jekyll-metadata
+.ruby-version
+.sass-cache/
+Gemfile.lock
+node_modules/
+vendor/bundle/
+vendor/cache/
+vendor/gems/
+vendor/ruby/

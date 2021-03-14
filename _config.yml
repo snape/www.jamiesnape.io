@@ -1,0 +1,79 @@
+---
+title: Jamie Snape
+author: Jamie Snape
+email: lastname@me.com
+description: >
+  Experienced engineer with a demonstrated history of working and leading in
+  the computer software, financial, robotics, scientific, and engineering
+  industries and in academia. Skilled in C++, Java, Python, and other
+  languages, as well as in various open source libraries, cloud and web
+  platforms, and project management. Certified in Java programming. Strong
+  engineering professional with a Ph.D. in computer science focused on
+  distributed autonomous robotic vehicles and video game artificial
+  intelligence from the University of North Carolina at Chapel Hill. US and UK
+  Citizen.
+
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-github-metadata
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - node_modules/
+  - README.md
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - assets/publications/mmath/NOTICE
+  - assets/publications/msc/NOTICE
+  - assets/publications/phd/NOTICE
+
+facebook_username: jamiesnape
+github_username:  jamiesnape
+instagram_username: jamiesnape
+linkedin_username: jamiesnape
+twitter_username: jamiesnape
+youtube_username: jamiesnape
+
+google_analytics: G-2YBY8NNGN4
+
+header_pages:
+  - courses.md
+  - links.md
+  - publications.md
+  - software.md
+  - teaching.md
+  - videos.md
+
+tagline: Experienced Principal R&D Engineer and Project Lead
+
+webmaster_verifications:
+  bing: 448B9EE76DDA7386A944C7F059A70510
+
+logo: /assets/photo.png
+
+social:
+  name: Jamie Snape
+  links:
+    - https://github.com/jamiesnape
+    - https://twitter.com/jamiesnape
+    - https://vimeo.com/snape
+    - https://www.facebook.com/jamiesnape
+    - https://www.instagram.com/jamiesnape/
+    - https://www.linkedin.com/in/jamiesnape
+    - https://www.twitch.tv/tarhippo
+    - https://www.youtube.com/jamiesnape
+
+twitter:
+  username: jamiesnape
+  card: summary
+
+url: https://www.jamiesnape.io

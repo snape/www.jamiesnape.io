@@ -1,0 +1,31 @@
+# -*- mode: gitattributes; -*-
+# vi: set ft=gitattributes:
+
+[attr]whitespace-2   whitespace=tab-in-indent,tabwidth=2,trailing-space
+[attr]whitespace-md  whitespace=-blank-at-eol,blank-at-eof,tab-in-indent
+
+*                    text=auto
+
+*.html               text diff=html whitespace-2
+*.ico                binary
+*.lock               text linguist-generated whitespace=trailing-space
+*.md                 text diff=markdown linguist-detectable whitespace-md
+*.pdf                binary
+*.png                binary
+*.webmanifest        text linguist-language=json whitespace-2
+*.xml                text diff=html linguist-language=xml whitespace-2
+*.yml                text whitespace-2
+
+.bundle/config       text linguist-generated linguist-language=yaml whitespace=trailing-space
+.editorconfig        text whitespace-2
+.gitattributes       text export-ignore whitespace-2
+.github/CODEOWNERS   text whitespace-2
+.gitignore           text export-ignore whitespace-2
+CNAME                text export-ignore whitespace-2
+Gemfile              text whitespace-2
+LICENSE              text linguist-documentation linguist-vendored whitespace=trailing-space
+NOTICE               text linguist-documentation whitespace=trailing-space
+README.md            linguist-documentation
+
+.github/**           export-ignore
+.github/**/*.md      linguist-documentation
